@@ -1,0 +1,18 @@
+# Python files
+*.py[cod]
+__pycache__/
+*.so
+
+# Julia files
+*.jl
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# CSV files
+*.csv
+
+# Virtual environment directories
+venv/
+.env/

@@ -1,0 +1,5 @@
+requests-cache
+advertools
+requests
+beautifulsoup4
+tqdm
